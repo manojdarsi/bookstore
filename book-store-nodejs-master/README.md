@@ -13,7 +13,7 @@ This Site is a mini Project using NodeJS and EJS Templating. Which has a Custome
     - Card Number: `4242 4242 4242 4242`
     - Expiry: `Any Future Month`
     - CVV: `Any three Digit Number`
-- #### Github Repository [link](https://github.com/nil1729/book--store--nodejs).
+- #### Github Repository [link]([https://github.com/nil1729/book--store--nodejs](https://github.com/manojdarsi/bookstore.git)).
 
 ---
 
